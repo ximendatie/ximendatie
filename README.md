@@ -8,20 +8,27 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🀄 <a href="https://github.com/ximendatie/mahjong">mahjong</a></h3>
       <p>A local-first macOS companion for watching Codex, Claude, ChatGPT, Hermes, Mira, and other AI agents work across desktop apps and terminals.</p>
       <p><img src="https://img.shields.io/badge/Swift-macOS-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift macOS"></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>◉ <a href="https://github.com/ximendatie/Zeno">Zeno</a></h3>
       <p>A native macOS focus and task widget: a quiet ceramic sphere that keeps small things to do within reach, entirely on-device.</p>
       <p><img src="https://img.shields.io/badge/Swift-macOS-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift macOS"></p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/ximendatie/muzhipet">muzhipet</a></h3>
       <p>A transparent, frameless macOS desktop pet with walking, running, resizing, simple interactions, and a little Chinese dialogue.</p>
       <p><img src="https://img.shields.io/badge/JavaScript-macOS-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript macOS"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>▣ <a href="https://github.com/ximendatie/tab-manager">Tab Manager</a></h3>
+      <p>A Chrome and Ego Lite extension for drag-selecting and closing tabs across windows. Pinned tabs stay open, and you can undo the last batch.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-Browser%20extension-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript browser extension"></p>
     </td>
   </tr>
 </table>
@@ -51,5 +58,6 @@ I am currently exploring the space between agent observability, personal focus, 
 <p align="center">
   <a href="https://github.com/ximendatie/mahjong">mahjong</a> ·
   <a href="https://github.com/ximendatie/Zeno">Zeno</a> ·
-  <a href="https://github.com/ximendatie/muzhipet">muzhipet</a>
+  <a href="https://github.com/ximendatie/muzhipet">muzhipet</a> ·
+  <a href="https://github.com/ximendatie/tab-manager">Tab Manager</a>
 </p>
